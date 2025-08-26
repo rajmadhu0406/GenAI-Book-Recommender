@@ -7,5 +7,5 @@
 - Creating a web application using Gradio for users to get book recommendations (code in the file gradio-dashboard.py).
 
   
-Original Code:  "FreeCodeCamp - Build a Semantic Book Recommender with LLMs – Full Course".
+Credit:  "FreeCodeCamp - Build a Semantic Book Recommender with LLMs – Full Course".
 
